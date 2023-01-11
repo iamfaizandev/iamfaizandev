@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 My Portfolio Links [https://imfaizan-my-portfolio.netlify.app/](https://imfaizan-my-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio Links [https://imfaizan-my-portfolio.netlify.app/](https://iamfaizandev.github.io/My_Portfolio/)
 
 - All of my projects are available at [https://github.com/iamfaizandev?tab=repositorie](https://github.com/iamfaizandev?tab=repositorie)
 
