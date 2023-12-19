@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@faizan08292245" target="blank"><img src="https://img.shields.io/twitter/follow/@faizan08292245?logo=twitter&style=for-the-badge" alt="@faizan08292245" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m Frontend React Developer 
 
 - 👨‍💻 My Portfolio Links [https://iamfaizandev.github.io/My_Portfolio/](https://iamfaizandev.github.io/My_Portfolio/)
 
 - All of my projects are available at [https://github.com/iamfaizandev?tab=repositorie](https://github.com/iamfaizandev?tab=repositorie)
 
-- 💬 Ask me about **Front-End,Web Development**
+- 💬 Ask me about **Front-End,Web Development,React js,HtmlCss,Js**
 
 - 📫 How to reach me **md.faizan.ahmad.web@gmail.com**
 
