@@ -10,7 +10,7 @@
 
 - 🌱 I’m Frontend React Developer 
 
-- 👨‍💻 My Portfolio Links [https://iamfaizandev.github.io/My_Portfolio/](https://iamfaizandev.github.io/My_Portfolio/)
+- 👨‍💻 My Portfolio Links [https://iamfaizandev.github.io/My_Portfolio/]([https://iamfaizandev.github.io/My_Portfolio/](https://mdfaizanahmad-portfolio-fzn.web.app/))
 
 - All of my projects are available at [https://github.com/iamfaizandev?tab=repositorie](https://github.com/iamfaizandev?tab=repositorie)
 
